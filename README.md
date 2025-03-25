@@ -8,5 +8,9 @@
 
 ## Colaboradores
 
-**Fainner Ramirez**
-**Daniel Cortéz**
+- **Fainner Ramirez** - Estudiante y Desarrollador Frontend
+- **Daniel Cortéz** - Estudiante y Desarrollador Frontend 
+
+---
+
+**_Universidad IberoAmericana_**
